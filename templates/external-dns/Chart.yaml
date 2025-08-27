@@ -4,4 +4,5 @@ version: 1.0.0
 dependencies:
   - name: external-dns
     version: 8.8.2
-    repository: oci://registry-1.docker.io/bitnamicharts
+    repository: oci://mydocker.hryan-neco.workers.dev/bitnami/external-dns:0.16.1-debian-12-r6
+    # repository: oci://registry-1.docker.io/bitnamicharts
